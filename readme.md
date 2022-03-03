@@ -1,6 +1,6 @@
 # 谐音CP名组合器
 
-基于 [Pinyin2Hanzi]() 和 [pypinyin]() 实现的简单python脚本，用以生成中文小组名称等.  
+基于 [Pinyin2Hanzi](https://github.com/letiantian/Pinyin2Hanzi) 和 [pypinyin](https://github.com/mozillazg/python-pinyin) 实现的简单python脚本，用以生成中文小组名称等.  
 
   <img width="383" alt="example" src="https://user-images.githubusercontent.com/50905239/156509689-04cb8f35-2af2-4df9-ba5c-2640f0aca40f.png">  
   
