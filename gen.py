@@ -11,8 +11,8 @@ dagparams = DefaultDagParams()
 import itertools as it
 
 
-names=input("请输入队员名称(用空格分隔):")
-# names = "蒋圩淏 唐鹏 徐子航 卿云帆"
+names=input("请输入队员名称(用空格分隔):\n")
+
 names = names.split(" ")
 pinyinarr = []
 for name in names:
